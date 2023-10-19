@@ -1,4 +1,4 @@
 # Trabajo de Grado: Detección de una enfermedad en el fruto de la fresa en su etapa postcultivo utilizando Inteligencia Artificial
 Esta tesis de grado en cuestión, consistió en el desarrollo de un sistema de clasificación de enfermedades en cultivos de fresas mediante el uso de un sistema microcontrolador y algoritmos de inteligencia artificial. Este sistema busca clasificar una enfermedad común en los cultivos de fresas en Colombia empleando diferentes métodos de procesamiento de imágenes y algoritmos de clasificación, como SVM, Naive-Bayes, KNN, regresión logística y redes neuronales.
 
-En este repositorio, se encontrarán los respectivos códigos en Python, donde se realiza el preprocesamiento automático de imágenes, el entrenamiento de los algoritmos de Machine Learning y el código implementado en el microcontrolador Raspbery Pi.
+En este repositorio, se encontrarán los respectivos códigos en Python, donde se realiza el preprocesamiento automático de imágenes, el entrenamiento de los algoritmos de Machine Learning y el código implementado en el microcontrolador Raspberry Pi.
